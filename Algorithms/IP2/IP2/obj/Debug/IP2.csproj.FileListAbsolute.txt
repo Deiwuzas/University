@@ -1,0 +1,17 @@
+C:\Users\Deividas\Desktop\visuals\IP2\IP2\obj\Debug\IP2.csproj.AssemblyReference.cache
+C:\Users\Deividas\Desktop\visuals\IP2\IP2\obj\Debug\IP2.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\Desktop\visuals\IP2\IP2\bin\Debug\IP2.exe.config
+C:\Users\Deividas\Desktop\visuals\IP2\IP2\bin\Debug\IP2.exe
+C:\Users\Deividas\Desktop\visuals\IP2\IP2\bin\Debug\IP2.pdb
+C:\Users\Deividas\Desktop\visuals\IP2\IP2\obj\Debug\IP2.exe
+C:\Users\Deividas\Desktop\visuals\IP2\IP2\obj\Debug\IP2.pdb
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\bin\Debug\IP2.exe.config
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\bin\Debug\IP2.exe
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\bin\Debug\IP2.pdb
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\obj\Debug\IP2.csproj.AssemblyReference.cache
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\obj\Debug\IP2.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\obj\Debug\IP2.exe
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\obj\Debug\IP2.pdb
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP2\IP2\obj\Debug\IP2.csproj.Up2Date

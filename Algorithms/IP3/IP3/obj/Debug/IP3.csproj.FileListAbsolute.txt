@@ -1,0 +1,14 @@
+C:\Users\Deividas\Desktop\visuals\IP3\IP3\bin\Debug\IP3.exe.config
+C:\Users\Deividas\Desktop\visuals\IP3\IP3\bin\Debug\IP3.exe
+C:\Users\Deividas\Desktop\visuals\IP3\IP3\bin\Debug\IP3.pdb
+C:\Users\Deividas\Desktop\visuals\IP3\IP3\obj\Debug\IP3.csproj.AssemblyReference.cache
+C:\Users\Deividas\Desktop\visuals\IP3\IP3\obj\Debug\IP3.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\Desktop\visuals\IP3\IP3\obj\Debug\IP3.exe
+C:\Users\Deividas\Desktop\visuals\IP3\IP3\obj\Debug\IP3.pdb
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP3\IP3\bin\Debug\IP3.exe.config
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP3\IP3\bin\Debug\IP3.exe
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP3\IP3\bin\Debug\IP3.pdb
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP3\IP3\obj\Debug\IP3.csproj.AssemblyReference.cache
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP3\IP3\obj\Debug\IP3.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP3\IP3\obj\Debug\IP3.exe
+C:\Users\Deividas\Desktop\Algoritmai\IP\IP3\IP3\obj\Debug\IP3.pdb

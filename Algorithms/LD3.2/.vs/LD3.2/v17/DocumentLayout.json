@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deividas\\Desktop\\Algoritmai\\lab3\\LD3.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78F067F4-2543-4311-821D-3107D9BE2651}|LD3.2\\LD3.2.csproj|c:\\users\\deividas\\desktop\\algoritmai\\lab3\\ld3.2\\ld3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F067F4-2543-4311-821D-3107D9BE2651}|LD3.2\\LD3.2.csproj|solutionrelative:ld3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deividas\\Desktop\\Algoritmai\\lab3\\LD3.2\\LD3.2\\Program.cs",
+              "RelativeDocumentMoniker": "LD3.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Deividas\\Desktop\\Algoritmai\\lab3\\LD3.2\\LD3.2\\Program.cs",
+              "RelativeToolTip": "LD3.2\\Program.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAYwI0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:34:03.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

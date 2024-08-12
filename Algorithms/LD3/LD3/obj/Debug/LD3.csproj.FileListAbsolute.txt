@@ -1,0 +1,14 @@
+C:\Users\Deividas\Desktop\visuals\LD3\LD3\bin\Debug\LD3.exe.config
+C:\Users\Deividas\Desktop\visuals\LD3\LD3\bin\Debug\LD3.exe
+C:\Users\Deividas\Desktop\visuals\LD3\LD3\bin\Debug\LD3.pdb
+C:\Users\Deividas\Desktop\visuals\LD3\LD3\obj\Debug\LD3.csproj.AssemblyReference.cache
+C:\Users\Deividas\Desktop\visuals\LD3\LD3\obj\Debug\LD3.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\Desktop\visuals\LD3\LD3\obj\Debug\LD3.exe
+C:\Users\Deividas\Desktop\visuals\LD3\LD3\obj\Debug\LD3.pdb
+C:\Users\Deividas\Desktop\Algoritmai\lab3\LD3\LD3\bin\Debug\LD3.exe.config
+C:\Users\Deividas\Desktop\Algoritmai\lab3\LD3\LD3\bin\Debug\LD3.exe
+C:\Users\Deividas\Desktop\Algoritmai\lab3\LD3\LD3\bin\Debug\LD3.pdb
+C:\Users\Deividas\Desktop\Algoritmai\lab3\LD3\LD3\obj\Debug\LD3.csproj.AssemblyReference.cache
+C:\Users\Deividas\Desktop\Algoritmai\lab3\LD3\LD3\obj\Debug\LD3.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\Desktop\Algoritmai\lab3\LD3\LD3\obj\Debug\LD3.exe
+C:\Users\Deividas\Desktop\Algoritmai\lab3\LD3\LD3\obj\Debug\LD3.pdb
